@@ -1,0 +1,9 @@
+winget uninstall 7zip.7zip
+winget uninstall Audacity.Audacity
+winget uninstall OBSProject.OBSStudio
+winget uninstall Skillbrains.Lightshot
+winget uninstall SumatraPDF.SumatraPDF
+winget uninstall VideoLAN.VLC
+winget uninstall Xanashi.Icaros
+winget uninstall XnSoft.XnViewMP
+winget uninstall Ghisler.TotalCommander

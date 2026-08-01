@@ -1,0 +1,13 @@
+#
+#
+#
+~/.bash_logout
+~/.bash_profile
+~/.bashrc
+~/.inputrc
+~/.config/git/config
+~/.config/tmux/config
+~/.config/vim/vimrc
+#
+#
+#

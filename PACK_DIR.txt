@@ -1,0 +1,16 @@
+#
+#
+#
+.config/
+.local/bin/
+.local/share/
+.local/state/
+#
+#
+#
+.config/git/
+.config/tmux/
+.config/vim/
+#
+#
+#
